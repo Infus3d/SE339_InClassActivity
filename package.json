@@ -1,0 +1,19 @@
+{
+  "name": "se339_inclassactivity",
+  "version": "1.0.0",
+  "description": "testing commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Testing successful (No tests done)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infus3d/SE339_InClassActivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infus3d/SE339_InClassActivity/issues"
+  },
+  "homepage": "https://github.com/Infus3d/SE339_InClassActivity#readme"
+}
