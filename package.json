@@ -4,7 +4,7 @@
   "description": "testing commit",
   "main": "index.js",
   "scripts": {
-    "test": "echo Testing successful (No tests done)"
+    "test": "echo \"Testing successful (No tests done)\" && exit 0"
   },
   "repository": {
     "type": "git",
